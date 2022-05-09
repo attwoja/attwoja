@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @attwoja
 - 👀 I’m interested in a lot
-- 🌱 I’m currently learning sql
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning SQL
 - 📫 How to reach me attwoja@gmail.com
 
 <!---
